@@ -1,3 +1,4 @@
 ai
 oi
 ei
+ui
